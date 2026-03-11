@@ -1,4 +1,4 @@
-![IMG_7176](https://github.com/user-attachments/assets/1b060092-b4f0-453b-ad36-994dba488c1a)# 8086-Microprocessor-Simulation
+# 8086-Microprocessor-Simulation
 Simulated instruction execution and register-level operations improving understanding of CPU architecture.Tested and debugged circuit performance under different loads.
 # [cite_start]8086 Microprocessor Implementation 
 
